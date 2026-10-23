@@ -9,3 +9,8 @@ I am a Student at upGrad SOT , currently learnuing Git and Github
 - communication
 - problem solving
 - basic Git
+
+## projects
+
+- git project : good good
+- git lab : bad bad
