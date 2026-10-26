@@ -18,3 +18,8 @@ I am a Student at upGrad SOT , currently learnuing Git and Github
 ## Contact
 
 - Email:shreyxugsot@gmail.com
+
+## Hobbies
+
+- playing badminton
+- like to explore tech
